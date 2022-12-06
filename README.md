@@ -25,6 +25,4 @@
 
 演示效果：
 
-![穿透滑动](https://m.360buyimg.com/img/jfs/t1/173247/24/30191/736387/6329708eEae93c38f/79499d0353fecc64.gif)
-
-![fling穿透](https://m.360buyimg.com/img/jfs/t1/199554/18/27254/957617/6329707cE7d9377fa/6dd57e97e9609ffd.gif)
+![穿透滑动](https://m.360buyimg.com/img/jfs/t1/173247/24/30191/736387/6329708eEae93c38f/79499d0353fecc64.gif)![fling穿透](https://m.360buyimg.com/img/jfs/t1/199554/18/27254/957617/6329707cE7d9377fa/6dd57e97e9609ffd.gif)
