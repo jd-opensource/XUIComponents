@@ -1,0 +1,9 @@
+[submodule "MultiTab/XMultiTab-iOS"]
+	path = MultiTab/XMultiTab-iOS
+	url = https://github.com/JDFED/XMultiTab-iOS.git
+[submodule "MultiTab/XMultiTab-android"]
+	path = MultiTab/XMultiTab-android
+	url = https://github.com/JDFED/XMultiTab-android.git
+[submodule "Nest/XNestedRecyclerView"]
+	path = Nest/XNestedRecyclerView
+	url = https://github.com/JDFED/XNestedRecyclerView.git
